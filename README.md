@@ -160,8 +160,7 @@ Install dependencies
 npm install
 Install Playwright browsers
 npx playwright install
-Run all Playwright tests
-npx playwright test
+
 Run tests with browser visible
 npx playwright test --headed
 Run Part 2
